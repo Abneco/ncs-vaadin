@@ -7,7 +7,7 @@ import {
     AfterViewInit, ViewChild, ElementRef, Input, CUSTOM_ELEMENTS_SCHEMA
 } from '@angular/core';
 import '@vaadin/checkbox-group';
-import {CheckboxComponent} from "../checkbox/checkbox.component";
+import {CheckboxComponent} from "./checkbox.component";
 
 @Component({
     selector: 'ncs-vaadin-checkbox-group',

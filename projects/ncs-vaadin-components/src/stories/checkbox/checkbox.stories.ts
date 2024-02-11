@@ -1,6 +1,6 @@
 import {Meta, moduleMetadata, StoryObj} from '@storybook/angular';
 import {CheckboxComponent} from "../../lib/checkbox/checkbox.component";
-import {CheckboxGroupComponent} from "../../lib/checkbox-group/checkbox-group.component";
+import {CheckboxGroupComponent} from "../../lib/checkbox/checkbox-group.component";
 import {action} from "@storybook/addon-actions";
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories
